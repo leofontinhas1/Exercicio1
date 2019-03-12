@@ -1,3 +1,39 @@
+commit fac7b09c0f199b5a6571399d739ec3ecf8e41fdf
+Author: leofontinhas1 <48450730+leofontinhas1@users.noreply.github.com>
+Date:   Tue Mar 12 16:54:30 2019 -0300
+
+    atualizando readme
+
+commit b7fe12f264c12a0447408b985d571ae080431d3d
+Author: leofontinhas1 <48450730+leofontinhas1@users.noreply.github.com>
+Date:   Tue Mar 12 16:50:23 2019 -0300
+
+    arrumando o readme
+
+commit e6978f2582c4f6a9baa9d88c88fffbb5f4924473
+Author: leofontinhas1 <48450730+leofontinhas1@users.noreply.github.com>
+Date:   Tue Mar 12 16:40:48 2019 -0300
+
+    ReadMe.md
+
+commit 48e2b0aa2f6957dcf74f136948bad049f271c30f
+Author: leofontinhas1 <leofontinhas1@gmail.com>
+Date:   Tue Mar 12 16:16:53 2019 -0300
+
+    atualizacao logs
+
+commit 48e2b0aa2f6957dcf74f136948bad049f271c30f
+Author: leofontinhas1 <leofontinhas1@gmail.com>
+Date:   Tue Mar 12 16:16:53 2019 -0300
+
+    atualizacao logs
+
+commit 54bde01d65bf352c277c9eefab4e0e5ce058deb1
+Author: leofontinhas1 <leofontinhas1@gmail.com>
+Date:   Tue Mar 12 16:14:58 2019 -0300
+
+    atualizacao no status
+
 commit 45947b5dcafb7f990457d78b434aa035f1421d22
 Author: leofontinhas1 <leofontinhas1@gmail.com>
 Date:   Tue Mar 12 16:11:19 2019 -0300
@@ -9,9 +45,3 @@ Author: leofontinhas1 <leofontinhas1@gmail.com>
 Date:   Tue Mar 12 16:07:13 2019 -0300
 
     alteracao no arquivo status.txt
-
-commit fc44ebb63b30d4c1313edc71cfdc452054b88e98
-Author: leofontinhas1 <leofontinhas1@gmail.com>
-Date:   Tue Mar 12 16:02:37 2019 -0300
-
-    adicionando arquivo status.txt
