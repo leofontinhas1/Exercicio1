@@ -10,6 +10,8 @@ academico</p>
   - Status do repositório
  
   - Logs do repositório
+<h2>Git Clone: </h2>
+<p>https://github.com/leofontinhas1/Exercicio1</p>
  
 <h2>Colaboradores:</h3>
 <p>aluno: Lenoardo Fontinhas<br>professor: Maiko cunha</p>
